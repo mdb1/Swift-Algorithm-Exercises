@@ -60,3 +60,4 @@ assert(!checkPermutationInNTime("this is short", "this is great"))
 /// We used hash tables in the hint 1, so yes!
 
 //: [Next](@next)
+
