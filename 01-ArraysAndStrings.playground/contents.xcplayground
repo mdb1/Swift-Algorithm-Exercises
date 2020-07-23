@@ -4,5 +4,6 @@
         <page name='01-isUnique'/>
         <page name='02-checkPermutation'/>
         <page name='03-URLify'/>
+        <page name='04-palindromePermutation'/>
     </pages>
 </playground>
