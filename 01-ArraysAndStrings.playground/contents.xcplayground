@@ -7,5 +7,6 @@
         <page name='04-palindromePermutation'/>
         <page name='05-oneAway'/>
         <page name='06-stringCompression'/>
+        <page name='07-rotateMatrix'/>
     </pages>
 </playground>
