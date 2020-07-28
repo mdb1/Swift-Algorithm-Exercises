@@ -8,5 +8,6 @@
         <page name='05-oneAway'/>
         <page name='06-stringCompression'/>
         <page name='07-rotateMatrix'/>
+        <page name='08-zeroMatrix'/>
     </pages>
 </playground>
