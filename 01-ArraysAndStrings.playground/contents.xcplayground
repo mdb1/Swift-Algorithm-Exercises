@@ -9,5 +9,6 @@
         <page name='06-stringCompression'/>
         <page name='07-rotateMatrix'/>
         <page name='08-zeroMatrix'/>
+        <page name='09-isRotation'/>
     </pages>
 </playground>
